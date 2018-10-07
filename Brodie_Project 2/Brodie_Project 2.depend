@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1538956074 source:c:\users\miles.miles-pc\desktop\cs20a\brodie_project 2\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+
